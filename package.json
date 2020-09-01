@@ -1,0 +1,21 @@
+{
+  "name": "js-kata-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/kata.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
